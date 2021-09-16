@@ -1,0 +1,6 @@
+C:\Users\bogda\source\repos\Patterns\Abstract Factory\bin\Debug\Abstract Factory.dll
+C:\Users\bogda\source\repos\Patterns\Abstract Factory\bin\Debug\Abstract Factory.pdb
+C:\Users\bogda\source\repos\Patterns\Abstract Factory\obj\Debug\Abstract Factory.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\Patterns\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Patterns\Abstract Factory\obj\Debug\Abstract Factory.dll
+C:\Users\bogda\source\repos\Patterns\Abstract Factory\obj\Debug\Abstract Factory.pdb
