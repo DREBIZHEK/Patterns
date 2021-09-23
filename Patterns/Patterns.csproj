@@ -62,6 +62,10 @@
       <Project>{45351311-6967-4A86-A7DE-CD235BB6229D}</Project>
       <Name>Singleton</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Strategy\Strategy.csproj">
+      <Project>{8DC276D4-13D8-4EC7-AB5A-F27151BEEEE4}</Project>
+      <Name>Strategy</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -18,7 +18,7 @@ namespace Singleton
             }
             return _instance;
         }
-        public static void someBusinessLogic()
+        public static void DoSomething()
         {
 
         }

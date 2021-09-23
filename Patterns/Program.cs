@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static Builder.Builder;
+using static Strategy.Strategy;
 
 namespace Patterns
 {
@@ -67,6 +68,15 @@ namespace Patterns
 			{
 				Console.WriteLine("Singleton failed, variables contain different instances.");
 			}
+		}
+
+		static void Strategy()
+		{
+			var context = new Context();
+			context.SetStrategy(new ConcreteStrategyA());
+			context.DoSomething();
+			context.SetStrategy(new ConcreteStrategyB());
+			context.DoSomething();
 		}
 	}
 }
