@@ -1,0 +1,6 @@
+C:\Users\bogda\OneDrive\Документы\Patterns\Strategy\bin\Debug\Strategy.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\bogda\OneDrive\Документы\Patterns\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\bogda\OneDrive\Документы\Patterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Документы\Patterns\Strategy\obj\Debug\Strategy.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Strategy\obj\Debug\Strategy.pdb

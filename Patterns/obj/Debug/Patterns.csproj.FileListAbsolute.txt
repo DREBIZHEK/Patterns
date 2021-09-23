@@ -22,3 +22,5 @@ C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\obj\Debug\Patterns.
 C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\obj\Debug\Patterns.pdb
 C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Singleton.dll
 C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Singleton.pdb
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Strategy.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Strategy.pdb

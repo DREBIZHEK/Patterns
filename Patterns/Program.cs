@@ -16,7 +16,8 @@ namespace Patterns
 		{
 			//Factory();
 			//Builder();
-			Singleton();
+			//Singleton();
+			Strategy();
 		}
 
 		static void Factory()
