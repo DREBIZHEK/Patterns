@@ -8,3 +8,17 @@ C:\Users\bogda\source\repos\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreComp
 C:\Users\bogda\source\repos\Patterns\Patterns\obj\Debug\Patterns.csproj.CopyComplete
 C:\Users\bogda\source\repos\Patterns\Patterns\obj\Debug\Patterns.exe
 C:\Users\bogda\source\repos\Patterns\Patterns\obj\Debug\Patterns.pdb
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Abstract Factory.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Builder.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Abstract Factory.pdb
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Builder.pdb
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\obj\Debug\Patterns.csproj.CopyComplete
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\obj\Debug\Patterns.pdb
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Singleton.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Patterns\bin\Debug\Singleton.pdb

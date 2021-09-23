@@ -1,0 +1,6 @@
+C:\Users\bogda\OneDrive\Документы\Patterns\Builder\bin\Debug\Builder.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Builder\bin\Debug\Builder.pdb
+C:\Users\bogda\OneDrive\Документы\Patterns\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\bogda\OneDrive\Документы\Patterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Документы\Patterns\Builder\obj\Debug\Builder.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Builder\obj\Debug\Builder.pdb

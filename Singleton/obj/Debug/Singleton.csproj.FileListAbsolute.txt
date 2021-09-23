@@ -1,0 +1,6 @@
+C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\bin\Debug\Singleton.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\obj\Debug\Singleton.dll
+C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\obj\Debug\Singleton.pdb
