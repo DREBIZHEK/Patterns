@@ -4,3 +4,12 @@ C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\obj\Debug\Singleto
 C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
 C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\obj\Debug\Singleton.dll
 C:\Users\bogda\OneDrive\Документы\Patterns\Singleton\obj\Debug\Singleton.pdb
+D:\C# proj\Singleton\bin\Debug\Singleton.dll
+D:\C# proj\Singleton\bin\Debug\Singleton.pdb
+D:\C# proj\Singleton\bin\Debug\Newtonsoft.Json.dll
+D:\C# proj\Singleton\bin\Debug\Newtonsoft.Json.xml
+D:\C# proj\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\C# proj\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\C# proj\Singleton\obj\Debug\Singleton.csproj.CopyComplete
+D:\C# proj\Singleton\obj\Debug\Singleton.dll
+D:\C# proj\Singleton\obj\Debug\Singleton.pdb

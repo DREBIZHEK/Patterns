@@ -1,0 +1,9 @@
+D:\C# proj\Flyweight\bin\Debug\Flyweight.dll
+D:\C# proj\Flyweight\bin\Debug\Flyweight.pdb
+D:\C# proj\Flyweight\bin\Debug\Newtonsoft.Json.dll
+D:\C# proj\Flyweight\bin\Debug\Newtonsoft.Json.xml
+D:\C# proj\Flyweight\obj\Debug\Flyweight.csproj.AssemblyReference.cache
+D:\C# proj\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+D:\C# proj\Flyweight\obj\Debug\Flyweight.csproj.CopyComplete
+D:\C# proj\Flyweight\obj\Debug\Flyweight.dll
+D:\C# proj\Flyweight\obj\Debug\Flyweight.pdb
